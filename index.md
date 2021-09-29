@@ -1,6 +1,6 @@
-## Welcome to My SSBU Pages
+## Welcome to My SSBU Guide
 
-Here, you will find all sorts of interesting "facts" about Super Smash Bros Ultimate
+Here, you can start learning how to play Super Smash Bros Ultimate
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
