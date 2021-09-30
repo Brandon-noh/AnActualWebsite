@@ -1,8 +1,10 @@
-## Welcome to My SSBU Guide
+## Welcome to My Genshin Impact
 
-Here, you can start learning how to play Super Smash Bros Ultimate
+Here, you can learn about some of the best genshin characters
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Kaedehara Kazuha
+
+5-star anemo swordfighter 
 
 ### Markdown
 
