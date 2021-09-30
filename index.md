@@ -1,6 +1,6 @@
-## Welcome to My Genshin Impact
+## Welcome to My Genshin Impact Website
 
-Here, you can learn about some of the best genshin characters
+Here, you can learn about all my bias opinions about this game
 
 ### Kaedehara Kazuha
 
