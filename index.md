@@ -5,7 +5,7 @@ Here, you can learn about all my bias opinions about this game
 ### Kaedehara Kazuha
 
 5-star anemo swordfighter 
-
+![] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQpslIJLvgC7L-tpYRwAKHii54qH3pdEnGKA&usqp=CAU)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
