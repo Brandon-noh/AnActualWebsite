@@ -1,4 +1,4 @@
-## Welcome to My Genshin Impact Website
+# Welcome to My Genshin Impact Website
 
 Here, you can learn about all my bias opinions and favorite characters from Genshin Impact
 
