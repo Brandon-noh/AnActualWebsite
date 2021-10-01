@@ -50,9 +50,18 @@ _Personally Despise_
 
 ![](https://tse3.mm.bing.net/th?id=OIP.R0qdWH9iL6VjlPrjep98ZAHaEc&pid=Api&P=0&w=302&h=182)
 
-Not useful without Zhongli, situational Sup Dps
+Not useful without Zhongli, situational Sup Dps to buff geo damage
 
 _Conditionally useful only with Zhongli_
 
+### Amber
+
+**4-star pyro archer**
+
+![](https://tse4.mm.bing.net/th?id=OIP.9GzstL9ypVX5bkGy8vb11AHaEK&pid=Api&P=0&w=312&h=176)
+
+Provides nothing, gives no damage or any useful effects
+
+_The one unbias statement on this website_
 
 
