@@ -14,7 +14,7 @@ Great Aoe Sup/Sub Dps
 
 5-star anemo polearm(spear)
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQpslIJLvgC7L-tpYRwAKHii54qH3pdEnGKA&usqp=CAU)
+![](https://tse4.mm.bing.net/th?id=OIP.VUztZ8rNha36-f91OyaTtQHaEK&pid=Api&P=0&w=281&h=159)
 
 # Header 1
 ## Header 2
