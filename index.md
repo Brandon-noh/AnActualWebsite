@@ -65,4 +65,5 @@ Provides nothing, gives no damage or any useful effects
 _The one unbias statement on this website_
 
 
-Complete and more specific detailed [Genshin Character List](https://zilliongamer.com/genshin-impact/c/wiki/genshin-impact-characters-list)
+
+## Complete and more specific detailed [Genshin Character List](https://zilliongamer.com/genshin-impact/c/wiki/genshin-impact-characters-list)
