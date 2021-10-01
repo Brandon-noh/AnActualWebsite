@@ -38,7 +38,7 @@ _Looks Sick_
 
 **5-star hydro catalyst(mage)**
 
-![](https://squadstate.com/wp-content/uploads/2020/12/Mona-Genshin-IMpact.jpg)
+![](https://tse3.mm.bing.net/th?id=OIP.3WYQT4dThQHLgLYNUjOhCgHaEK&pid=Api&P=0&w=309&h=174)
 
 No damage, Awkward Movement
 
