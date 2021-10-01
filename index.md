@@ -38,7 +38,7 @@ _Looks Sick_
 
 **5-star hydro catalyst(mage)**
 
-![](https://wallpapercave.com/wp/wp8066401.jpg]
+![](https://wallpapercave.com/wp/wp8066401.jpg])
 
 No damage, Awkward Movement
 
