@@ -9,6 +9,7 @@ Here, you can learn about all my bias opinions and favorite characters from Gens
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQpslIJLvgC7L-tpYRwAKHii54qH3pdEnGKA&usqp=CAU)
 
 Great Aoe Sup/Sub Dps
+
 _Look Really Cool_
 
 ### Xiao
@@ -18,6 +19,7 @@ _Look Really Cool_
 ![](https://tse4.mm.bing.net/th?id=OIP.VUztZ8rNha36-f91OyaTtQHaEK&pid=Api&P=0&w=281&h=159)
 
 Great Main Dps
+
 _Look Really Sick_
 
 ### Zhongli
@@ -27,4 +29,30 @@ _Look Really Sick_
 ![](https://tse2.mm.bing.net/th?id=OIP.QSqThEbe-NP1lPa3vXpLnAHaEK&pid=Api&P=0&w=277&h=157)
 
 OP Sup, Permenant Shields
+
 _Looks Sick_
+
+## Bad Characters You shouldn't Use
+
+### Mona
+
+**5-star hydro catalyst(mage)**
+
+![](https://wallpapercave.com/wp/wp8066401.jpg]
+
+No damage, Awkward Movement
+
+_Personally Despise_
+
+### Albedo
+
+**5-star geo swordfighter**
+
+![](https://tse3.mm.bing.net/th?id=OIP.R0qdWH9iL6VjlPrjep98ZAHaEc&pid=Api&P=0&w=302&h=182)
+
+Not useful without Zhongli, situational Sup Dps
+
+_Conditionally useful only with Zhongli_
+
+
+
